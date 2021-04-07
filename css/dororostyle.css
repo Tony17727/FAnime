@@ -1,0 +1,20 @@
+body {
+	background-color: brown;
+}
+
+ul {
+	width: 410px;
+	list-style: none;
+	overflow: hidden;
+	border: 1px solid black
+}
+	
+li {
+	width: 600px;
+	height: 1200px; 
+	background-color: red;
+	float: left;
+	text-align: center;
+	line-height: 120px;
+	border: 1px solid black
+}
